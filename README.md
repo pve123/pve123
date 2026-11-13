@@ -32,8 +32,8 @@
 
 ## 🧗 프로젝트
 
-- ⛰️ 서울 산을 실제 지형 그대로 친구와 오르는 3D 웹 앱 [오르자](https://www.oreuja.com) (2026.11) | 개인, [코드](https://github.com/pve123/oreuja)
-- 🏖️ 연차는 적게 쓰고 오래 쉬는 연휴를 찾아 여행까지 짜 주는 [뇌빼고](https://noeppaego.vercel.app) (2026.10 ~ 2026.11) | 개인, [코드](https://github.com/pve123/noeppaego)
+- ⛰️ 서울 산을 실제 지형 그대로 친구와 오르는 3D 웹 앱 [오르자](https://www.oreuja.com) | 개인, [코드](https://github.com/pve123/oreuja)
+- 🏖️ 연차는 적게 쓰고 오래 쉬는 연휴를 찾아 여행까지 짜 주는 [뇌빼고](https://noeppaego.vercel.app) | 개인, [코드](https://github.com/pve123/noeppaego)
 - 🔷 헥사고날 아키텍처로 만든 게시판 API [hexagonal-board-api](https://github.com/pve123/hexagonal-board-api) | 개인, BE
 - 🧱 회원과 게시판과 채팅을 갖춘 Spring Boot 백엔드 [community-backend](https://github.com/pve123/community-backend) | 개인, BE
 
