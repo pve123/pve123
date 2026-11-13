@@ -39,9 +39,9 @@
 ## 📕 최근 글
 
 <!-- BLOG-POST-LIST:START -->
-- [⛰️ 친구와 같이 오르는 3D 등산 웹 앱 「오르자」](https://velog.io/@dev-hsl-960221/%EB%B0%A9%EA%B5%AC%EC%84%9D%EC%97%90%EC%84%9C-%EC%84%9C%EC%9A%B8%EC%9D%98-%EC%82%B0%EC%9D%84-%EC%98%A4%EB%A5%B4%EB%8A%94-3D-%EC%9B%B9-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-rgbekt57)
-- [🔐 Refresh Token Rotation에서 동시 갱신이 탈취로 오판될 때](https://velog.io/@dev-hsl-960221/Refresh-Token-Rotation%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C-%EA%B0%B1%EC%8B%A0%EC%9D%B4-%ED%83%88%EC%B7%A8%EB%A1%9C-%EC%98%A4%ED%8C%90%EB%90%A0-%EB%95%8C)
-- [⚡ 통합 테스트 CI 15분을 5분으로 줄인 다섯 가지](https://velog.io/@dev-hsl-960221/%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-CI-15%EB%B6%84%EC%9D%84-5%EB%B6%84%EC%9C%BC%EB%A1%9C-%EC%A4%84%EC%9D%B8-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80)
-- [🚀 Next.js 서비스의 백엔드를 Kotlin으로 옮긴 9일](https://velog.io/@dev-hsl-960221/Next.js-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-Kotlin%EC%9C%BC%EB%A1%9C-%EC%98%AE%EA%B8%B4-9%EC%9D%BC)
-- [🐳 TDD부터 Testcontainers까지 그리고 Docker 29 오류 해결](https://velog.io/@dev-hsl-960221/TDD%EB%B6%80%ED%84%B0-Testcontainers%EA%B9%8C%EC%A7%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Docker-29-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0)
+- [⛰️ 친구와 같이 오르는 3D 등산 웹 앱 「오르자」](https://velog.io/@dev-hsl-960221/oreuja-3d-hiking-web-app)
+- [🔐 Refresh Token Rotation에서 동시 갱신이 탈취로 오판될 때](https://velog.io/@dev-hsl-960221/refresh-token-rotation-concurrent-refresh)
+- [⚡ 통합 테스트 CI 15분을 5분으로 줄인 다섯 가지](https://velog.io/@dev-hsl-960221/integration-test-ci-15min-to-5min)
+- [🚀 Next.js 서비스의 백엔드를 Kotlin으로 옮긴 9일](https://velog.io/@dev-hsl-960221/nextjs-backend-to-kotlin-migration)
+- [🐳 TDD부터 Testcontainers까지 그리고 Docker 29 오류 해결](https://velog.io/@dev-hsl-960221/tdd-testcontainers-docker-29)
 <!-- BLOG-POST-LIST:END -->
