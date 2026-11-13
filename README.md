@@ -23,7 +23,7 @@
 
 **Infra · Monitoring**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge) ![Fargate](https://img.shields.io/badge/Fargate-FF9900?style=for-the-badge) ![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Side Project**
 
