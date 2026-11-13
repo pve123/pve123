@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F6B4F,100:7FB77E&height=180&section=header&text=Dev96&fontColor=ffffff&fontSize=60&fontAlignY=38" alt="이호성" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F6B4F,100:7FB77E&height=180&section=header&text=%EC%9D%B4%ED%98%B8%EC%84%B1&fontColor=ffffff&fontSize=60&fontAlignY=38" alt="이호성" />
 
 </div>
 
