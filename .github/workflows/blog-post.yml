@@ -1,1 +1,20 @@
+name: 최근 velog 글 갱신
 
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 09:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://v2.velog.io/rss/@dev-hsl-960221"
+          max_post_count: 5
+          commit_message: "최근 글 목록 갱신"
