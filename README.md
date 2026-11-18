@@ -40,9 +40,9 @@
 ## 📕 최근 글
 
 <!-- BLOG-POST-LIST:START -->
+- [🤖 Claude Code로 짠 코드 Codex에게 한 번 더 리뷰받기](https://velog.io/@dev-hsl-960221/claude-code-codex-review)
 - [🎒 남은 연차로 가장 오래 쉬는 법을 배낭 문제로 풀었다](https://velog.io/@dev-hsl-960221/leave-knapsack-dp)
 - [⛰️ 친구와 같이 오르는 3D 등산 웹 앱 「오르자」](https://velog.io/@dev-hsl-960221/oreuja-3d-hiking-web-app)
 - [🔐 Refresh Token Rotation에서 동시 갱신이 탈취로 오판될 때](https://velog.io/@dev-hsl-960221/refresh-token-rotation-concurrent-refresh)
 - [⚡ 통합 테스트 CI 15분을 5분으로 줄인 다섯 가지](https://velog.io/@dev-hsl-960221/integration-test-ci-15min-to-5min)
-- [🚀 Next.js 서비스의 백엔드를 Kotlin으로 옮긴 9일](https://velog.io/@dev-hsl-960221/nextjs-backend-to-kotlin-migration)
 <!-- BLOG-POST-LIST:END -->
